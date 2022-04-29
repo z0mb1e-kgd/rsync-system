@@ -1,0 +1,1 @@
+rsync -aAXHv --exclude-from='exclude-list.rsync' /root-dir /clone-receiver
